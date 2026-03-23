@@ -16,6 +16,18 @@
       "device_id": "5c89e7006c2db308",
       "username": "Username",
       "password": "password",
+      "expire_date": "2026-04-22"
+    },
+    {
+      "device_id": "830571bea90529b4",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-04-22"
+    },
+    {
+      "device_id": "5c89e7006c2db308",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2025-04-22"
     },
     {
